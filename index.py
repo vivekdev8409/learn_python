@@ -1,6 +1,6 @@
-#? Sum of two numbers
+# area and parimeter
 
-a = int(input("Enter First Number:- "))
-b = int(input("Enter Second Number:- "))
+l = int(input())
+w = int(input())
 
-print("Sum of your number:- ", a+b)
+print("Paremeter of retangle ", 2*(l*w), ", Area of retengle - ", l*w)
